@@ -8,5 +8,12 @@
     "version": "0.1.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "magi",
+      "source": "./plugins/magi",
+      "description": "MAGIシステム - エヴァンゲリオンの3台のMAGIスーパーコンピュータによる多角的分析",
+      "version": "1.0.0"
+    }
+  ]
 }

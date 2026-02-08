@@ -1,0 +1,9 @@
+{
+  "name": "magi",
+  "version": "1.0.0",
+  "description": "MAGIシステム - エヴァンゲリオンの3台のMAGIスーパーコンピュータによる多角的分析",
+  "author": {
+    "name": "hexylab"
+  },
+  "keywords": ["magi", "evangelion", "multi-agent", "analysis", "team"]
+}
